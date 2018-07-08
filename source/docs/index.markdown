@@ -52,4 +52,4 @@ The documentation covers from beginner to advanced topic around the installation
 
 <br/>
 
-To see what Home Assistant can do, take a look at the [demo page](/demo).
+To see what Home Assistant can do, take a look at the [demo page](/demo).  
